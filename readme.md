@@ -550,3 +550,15 @@ public class AdicionarTarefaActivity extends AppCompatActivity {
 }
 ```
 ---
+## Problemas
+#### A lista comporta String não havendo nenhuma restição de caracteres.
+---
+## Créditos
+---
+## Desenvolvedor
+#### André Moura Pedroso
+#### Full-Stack, Mobile e Games
+#### Formação: SENAI e Faculdade Descomplica
+## Tutor
+#### Jamilton Damasceno
+#### Desenvolvimento Android 2018 - Aprenda a criar 15 apps
